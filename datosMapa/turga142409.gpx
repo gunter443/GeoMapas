@@ -1,0 +1,2647 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2012-12-12T23:06:15Z</time>
+    <bounds maxlat="42.037574" maxlon="-6.964449" minlat="42.003415" minlon="-7.053514"/>
+  </metadata>
+  <trk>
+    <name>06_Cir_Villa</name>
+    <trkseg>
+      <trkpt lat="42.037420" lon="-7.014612">
+        <ele>1043.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037140" lon="-7.013865">
+        <ele>1043.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w010</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.037246" lon="-7.013783">
+        <ele>1044.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037392" lon="-7.013596">
+        <ele>1045.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037475" lon="-7.013273">
+        <ele>1045.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037401" lon="-7.013107">
+        <ele>1045.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w011</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.037353" lon="-7.012856">
+        <ele>1044.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037267" lon="-7.012625">
+        <ele>1044.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037088" lon="-7.012194">
+        <ele>1042.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036912" lon="-7.011622">
+        <ele>1042.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w012</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.036651" lon="-7.011130">
+        <ele>1041.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036598" lon="-7.010660">
+        <ele>1043.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036652" lon="-7.010169">
+        <ele>1046.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037057" lon="-7.009221">
+        <ele>1051.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w013</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.037510" lon="-7.008137">
+        <ele>1051.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037574" lon="-7.007865">
+        <ele>1050.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037510" lon="-7.007474">
+        <ele>1048.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037395" lon="-7.007214">
+        <ele>1046.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037005" lon="-7.006798">
+        <ele>1042.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w014</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.036927" lon="-7.006455">
+        <ele>1041.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036933" lon="-7.006160">
+        <ele>1040.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w015</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.036850" lon="-7.005841">
+        <ele>1038.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036711" lon="-7.005481">
+        <ele>1034.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036690" lon="-7.005237">
+        <ele>1033.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036667" lon="-7.005133">
+        <ele>1033.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036602" lon="-7.005091">
+        <ele>1032.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036453" lon="-7.005101">
+        <ele>1030.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036348" lon="-7.004989">
+        <ele>1028.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036255" lon="-7.004679">
+        <ele>1027.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036137" lon="-7.004292">
+        <ele>1026.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036127" lon="-7.004081">
+        <ele>1027.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036105" lon="-7.003795">
+        <ele>1028.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036152" lon="-7.003593">
+        <ele>1028.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036154" lon="-7.003447">
+        <ele>1028.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036040" lon="-7.003392">
+        <ele>1027.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035796" lon="-7.003287">
+        <ele>1025.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035603" lon="-7.003189">
+        <ele>1023.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035460" lon="-7.003188">
+        <ele>1021.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035367" lon="-7.003094">
+        <ele>1022.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035412" lon="-7.002867">
+        <ele>1022.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035463" lon="-7.002641">
+        <ele>1023.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035594" lon="-7.002517">
+        <ele>1025.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w016</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.035809" lon="-7.002308">
+        <ele>1028.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w017</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.035899" lon="-7.002067">
+        <ele>1030.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036008" lon="-7.001671">
+        <ele>1032.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036040" lon="-7.001299">
+        <ele>1033.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036086" lon="-7.000808">
+        <ele>1036.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035984" lon="-7.000178">
+        <ele>1038.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035910" lon="-6.999735">
+        <ele>1040.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035752" lon="-6.999304">
+        <ele>1040.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035679" lon="-6.998791">
+        <ele>1041.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035678" lon="-6.998517">
+        <ele>1041.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035762" lon="-6.998325">
+        <ele>1043.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035920" lon="-6.998160">
+        <ele>1047.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035940" lon="-6.998054">
+        <ele>1047.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035845" lon="-6.997886">
+        <ele>1046.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035701" lon="-6.997806">
+        <ele>1044.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035588" lon="-6.997791">
+        <ele>1041.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035558" lon="-6.997543">
+        <ele>1042.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035554" lon="-6.997236">
+        <ele>1043.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035478" lon="-6.996969">
+        <ele>1043.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035422" lon="-6.996614">
+        <ele>1045.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035421" lon="-6.996182">
+        <ele>1049.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035458" lon="-6.995600">
+        <ele>1055.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035466" lon="-6.995247">
+        <ele>1058.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035570" lon="-6.994627">
+        <ele>1066.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035676" lon="-6.994441">
+        <ele>1070.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035831" lon="-6.994340">
+        <ele>1075.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035937" lon="-6.994127">
+        <ele>1078.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035970" lon="-6.993918">
+        <ele>1079.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w018</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.036009" lon="-6.993865">
+        <ele>1080.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036221" lon="-6.993683">
+        <ele>1086.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036274" lon="-6.993636">
+        <ele>1087.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036249" lon="-6.993526">
+        <ele>1087.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036142" lon="-6.993291">
+        <ele>1085.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036198" lon="-6.993192">
+        <ele>1087.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036274" lon="-6.993119">
+        <ele>1089.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036238" lon="-6.992966">
+        <ele>1088.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035982" lon="-6.992620">
+        <ele>1085.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035789" lon="-6.992319">
+        <ele>1084.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035675" lon="-6.991978">
+        <ele>1085.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035616" lon="-6.991696">
+        <ele>1086.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w019</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.035656" lon="-6.991396">
+        <ele>1090.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035778" lon="-6.991151">
+        <ele>1095.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035798" lon="-6.990990">
+        <ele>1097.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035715" lon="-6.990662">
+        <ele>1096.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035643" lon="-6.990416">
+        <ele>1095.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035654" lon="-6.990280">
+        <ele>1096.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035715" lon="-6.990169">
+        <ele>1099.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035859" lon="-6.990116">
+        <ele>1103.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036028" lon="-6.990194">
+        <ele>1108.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036249" lon="-6.990259">
+        <ele>1115.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w020</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.036227" lon="-6.990070">
+        <ele>1114.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036030" lon="-6.989547">
+        <ele>1109.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035871" lon="-6.988721">
+        <ele>1112.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035756" lon="-6.988346">
+        <ele>1113.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035671" lon="-6.987835">
+        <ele>1116.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035634" lon="-6.986970">
+        <ele>1120.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035640" lon="-6.986627">
+        <ele>1122.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035462" lon="-6.985627">
+        <ele>1125.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035363" lon="-6.984787">
+        <ele>1128.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035400" lon="-6.984369">
+        <ele>1131.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035510" lon="-6.984038">
+        <ele>1136.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035567" lon="-6.983750">
+        <ele>1139.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035461" lon="-6.983066">
+        <ele>1133.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035439" lon="-6.982764">
+        <ele>1133.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035485" lon="-6.982355">
+        <ele>1137.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035463" lon="-6.982016">
+        <ele>1140.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035307" lon="-6.981365">
+        <ele>1141.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035256" lon="-6.980950">
+        <ele>1144.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w021 OJO en las fotos casa con escaleras q pone sin numero placa</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.035160" lon="-6.980365">
+        <ele>1147.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035045" lon="-6.980099">
+        <ele>1147.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>-- es la foto de la iglesia que pone 021</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.035057" lon="-6.979758">
+        <ele>1150.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035101" lon="-6.979383">
+        <ele>1153.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035059" lon="-6.978671">
+        <ele>1156.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w022 OJO es la primera foto que pone 023 PL arboles a la derecha</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.035087" lon="-6.978361">
+        <ele>1159.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035008" lon="-6.977826">
+        <ele>1162.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034753" lon="-6.977522">
+        <ele>1160.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034504" lon="-6.977009">
+        <ele>1159.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w023 casa galpon a la izquierda</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.034408" lon="-6.976497">
+        <ele>1160.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034421" lon="-6.976235">
+        <ele>1162.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034385" lon="-6.975873">
+        <ele>1164.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w024</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.034393" lon="-6.975535">
+        <ele>1167.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034331" lon="-6.975047">
+        <ele>1170.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034234" lon="-6.974728">
+        <ele>1171.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034179" lon="-6.974168">
+        <ele>1175.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034116" lon="-6.973885">
+        <ele>1176.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034161" lon="-6.973392">
+        <ele>1182.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034228" lon="-6.973125">
+        <ele>1186.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034104" lon="-6.972871">
+        <ele>1186.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033974" lon="-6.972547">
+        <ele>1186.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033926" lon="-6.972360">
+        <ele>1186.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033802" lon="-6.971846">
+        <ele>1188.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033824" lon="-6.971555">
+        <ele>1190.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033980" lon="-6.971221">
+        <ele>1198.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034020" lon="-6.971010">
+        <ele>1200.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033941" lon="-6.970821">
+        <ele>1199.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033769" lon="-6.970474">
+        <ele>1197.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033740" lon="-6.970009">
+        <ele>1199.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033741" lon="-6.969299">
+        <ele>1205.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033713" lon="-6.969100">
+        <ele>1206.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033650" lon="-6.968947">
+        <ele>1206.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033618" lon="-6.968676">
+        <ele>1207.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033449" lon="-6.968469">
+        <ele>1206.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033390" lon="-6.968274">
+        <ele>1207.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033341" lon="-6.967684">
+        <ele>1214.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033279" lon="-6.967469">
+        <ele>1215.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033338" lon="-6.967163">
+        <ele>1220.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033409" lon="-6.966842">
+        <ele>1225.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033337" lon="-6.966563">
+        <ele>1228.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033324" lon="-6.966292">
+        <ele>1231.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033306" lon="-6.965889">
+        <ele>1238.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033319" lon="-6.965608">
+        <ele>1242.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033168" lon="-6.965494">
+        <ele>1244.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033065" lon="-6.965380">
+        <ele>1246.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w025</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.033089" lon="-6.965145">
+        <ele>1251.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033199" lon="-6.965001">
+        <ele>1254.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033337" lon="-6.964918">
+        <ele>1255.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w026</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_u_turn_rignt.png</sym>
+      </trkpt>
+      <trkpt lat="42.033296" lon="-6.964825">
+        <ele>1256.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032986" lon="-6.964534">
+        <ele>1264.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032798" lon="-6.964449">
+        <ele>1269.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032610" lon="-6.964519">
+        <ele>1275.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032433" lon="-6.964742">
+        <ele>1278.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031981" lon="-6.965537">
+        <ele>1274.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031581" lon="-6.966042">
+        <ele>1267.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030295" lon="-6.966409">
+        <ele>1287.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w027</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.030047" lon="-6.966461">
+        <ele>1297.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029776" lon="-6.966617">
+        <ele>1309.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029568" lon="-6.966846">
+        <ele>1317.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029617" lon="-6.967417">
+        <ele>1314.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w028</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.029681" lon="-6.967647">
+        <ele>1310.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029692" lon="-6.967860">
+        <ele>1309.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029608" lon="-6.968139">
+        <ele>1314.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029630" lon="-6.968515">
+        <ele>1314.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029800" lon="-6.969007">
+        <ele>1308.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029976" lon="-6.969343">
+        <ele>1300.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029988" lon="-6.969792">
+        <ele>1300.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029999" lon="-6.970316">
+        <ele>1298.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030091" lon="-6.971041">
+        <ele>1287.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030184" lon="-6.971405">
+        <ele>1278.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030172" lon="-6.971959">
+        <ele>1265.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030094" lon="-6.972181">
+        <ele>1263.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029831" lon="-6.972348">
+        <ele>1270.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029442" lon="-6.972560">
+        <ele>1284.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029240" lon="-6.972611">
+        <ele>1292.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029192" lon="-6.972761">
+        <ele>1294.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029382" lon="-6.973242">
+        <ele>1290.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029634" lon="-6.973766">
+        <ele>1285.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029967" lon="-6.974320">
+        <ele>1275.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030421" lon="-6.974900">
+        <ele>1258.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030592" lon="-6.975513">
+        <ele>1245.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030624" lon="-6.975966">
+        <ele>1233.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030512" lon="-6.976274">
+        <ele>1227.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w029</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.030245" lon="-6.976452">
+        <ele>1229.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029641" lon="-6.976468">
+        <ele>1243.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029377" lon="-6.976680">
+        <ele>1251.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029138" lon="-6.976881">
+        <ele>1260.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029010" lon="-6.976930">
+        <ele>1266.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.028879" lon="-6.976949">
+        <ele>1272.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.028819" lon="-6.977020">
+        <ele>1275.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.028844" lon="-6.977207">
+        <ele>1276.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029267" lon="-6.977801">
+        <ele>1267.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029524" lon="-6.978212">
+        <ele>1261.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029692" lon="-6.978783">
+        <ele>1263.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029721" lon="-6.979073">
+        <ele>1265.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029629" lon="-6.979506">
+        <ele>1274.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029790" lon="-6.979682">
+        <ele>1269.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029997" lon="-6.979826">
+        <ele>1262.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030249" lon="-6.979834">
+        <ele>1252.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030426" lon="-6.979938">
+        <ele>1245.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030605" lon="-6.980395">
+        <ele>1240.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030658" lon="-6.980908">
+        <ele>1232.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030602" lon="-6.981412">
+        <ele>1230.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030441" lon="-6.981704">
+        <ele>1236.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030193" lon="-6.981932">
+        <ele>1244.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030065" lon="-6.982153">
+        <ele>1248.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030157" lon="-6.982547">
+        <ele>1246.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030434" lon="-6.983057">
+        <ele>1237.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030669" lon="-6.983448">
+        <ele>1226.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030737" lon="-6.983925">
+        <ele>1220.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030637" lon="-6.984264">
+        <ele>1221.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030368" lon="-6.984932">
+        <ele>1227.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030414" lon="-6.985241">
+        <ele>1223.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030668" lon="-6.985644">
+        <ele>1211.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030526" lon="-6.985966">
+        <ele>1214.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030385" lon="-6.986566">
+        <ele>1217.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030333" lon="-6.986994">
+        <ele>1217.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030285" lon="-6.987463">
+        <ele>1219.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030317" lon="-6.987894">
+        <ele>1219.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030542" lon="-6.988341">
+        <ele>1210.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030565" lon="-6.988821">
+        <ele>1208.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030592" lon="-6.989224">
+        <ele>1206.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030707" lon="-6.989718">
+        <ele>1200.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030687" lon="-6.990405">
+        <ele>1199.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030781" lon="-6.990853">
+        <ele>1194.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030757" lon="-6.991445">
+        <ele>1189.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030667" lon="-6.991797">
+        <ele>1185.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030525" lon="-6.992019">
+        <ele>1183.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w030</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.030254" lon="-6.992188">
+        <ele>1186.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029621" lon="-6.992512">
+        <ele>1202.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w031</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.029400" lon="-6.992505">
+        <ele>1209.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029237" lon="-6.992714">
+        <ele>1217.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029379" lon="-6.993216">
+        <ele>1222.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029585" lon="-6.993531">
+        <ele>1221.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029720" lon="-6.994164">
+        <ele>1224.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029859" lon="-6.994808">
+        <ele>1224.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029861" lon="-6.995235">
+        <ele>1226.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029793" lon="-6.995577">
+        <ele>1230.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029857" lon="-6.995947">
+        <ele>1230.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030092" lon="-6.996670">
+        <ele>1225.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w032</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.029955" lon="-6.997189">
+        <ele>1229.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029989" lon="-6.997771">
+        <ele>1227.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029853" lon="-6.998502">
+        <ele>1230.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029820" lon="-6.999100">
+        <ele>1228.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029699" lon="-6.999463">
+        <ele>1228.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029595" lon="-6.999874">
+        <ele>1224.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w033</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.029317" lon="-7.000335">
+        <ele>1221.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029067" lon="-7.000748">
+        <ele>1218.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.028755" lon="-7.000887">
+        <ele>1221.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.028502" lon="-7.000938">
+        <ele>1228.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.028299" lon="-7.001459">
+        <ele>1224.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.028106" lon="-7.001850">
+        <ele>1223.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027895" lon="-7.002063">
+        <ele>1225.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027847" lon="-7.002548">
+        <ele>1220.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027745" lon="-7.002805">
+        <ele>1218.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027600" lon="-7.003020">
+        <ele>1218.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027389" lon="-7.003216">
+        <ele>1221.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027171" lon="-7.003232">
+        <ele>1225.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027042" lon="-7.003311">
+        <ele>1227.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027103" lon="-7.003610">
+        <ele>1223.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027127" lon="-7.004310">
+        <ele>1215.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.026958" lon="-7.004886">
+        <ele>1210.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.026591" lon="-7.005378">
+        <ele>1206.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w034</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.026191" lon="-7.005745">
+        <ele>1203.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.025744" lon="-7.005796">
+        <ele>1199.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.025366" lon="-7.005642">
+        <ele>1199.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.025173" lon="-7.005363">
+        <ele>1201.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.025131" lon="-7.004935">
+        <ele>1208.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.025135" lon="-7.004171">
+        <ele>1222.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.024976" lon="-7.003638">
+        <ele>1232.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.024714" lon="-7.003482">
+        <ele>1236.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.024263" lon="-7.003473">
+        <ele>1240.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.023687" lon="-7.003556">
+        <ele>1244.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.023230" lon="-7.003625">
+        <ele>1249.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.022896" lon="-7.003531">
+        <ele>1256.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.022471" lon="-7.003577">
+        <ele>1262.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.021996" lon="-7.003681">
+        <ele>1265.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.021892" lon="-7.003826">
+        <ele>1262.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.021640" lon="-7.003853">
+        <ele>1259.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.020824" lon="-7.003467">
+        <ele>1265.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.020536" lon="-7.003286">
+        <ele>1269.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.020436" lon="-7.002903">
+        <ele>1275.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.020154" lon="-7.002603">
+        <ele>1284.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.020009" lon="-7.002569">
+        <ele>1287.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.019675" lon="-7.002678">
+        <ele>1292.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.019366" lon="-7.002698">
+        <ele>1298.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.019125" lon="-7.002797">
+        <ele>1303.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.018947" lon="-7.003147">
+        <ele>1302.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.018782" lon="-7.003450">
+        <ele>1302.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.018541" lon="-7.003614">
+        <ele>1305.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.018249" lon="-7.003606">
+        <ele>1310.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.017496" lon="-7.003428">
+        <ele>1326.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.016581" lon="-7.003210">
+        <ele>1339.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.016421" lon="-7.003252">
+        <ele>1341.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w035</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.016132" lon="-7.003059">
+        <ele>1341.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.015868" lon="-7.002755">
+        <ele>1340.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w036</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.015148" lon="-7.003491">
+        <ele>1336.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.014522" lon="-7.003892">
+        <ele>1328.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w037</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.014142" lon="-7.004153">
+        <ele>1324.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013745" lon="-7.004591">
+        <ele>1319.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013437" lon="-7.004777">
+        <ele>1316.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012742" lon="-7.004856">
+        <ele>1309.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012419" lon="-7.005071">
+        <ele>1306.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011894" lon="-7.005541">
+        <ele>1302.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010964" lon="-7.006152">
+        <ele>1293.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010460" lon="-7.006409">
+        <ele>1289.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010023" lon="-7.006371">
+        <ele>1285.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.009509" lon="-7.006207">
+        <ele>1281.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w038</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.009138" lon="-7.006160">
+        <ele>1277.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008933" lon="-7.006337">
+        <ele>1275.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w039 poste para alto do castelo</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.008811" lon="-7.006446">
+        <ele>1273.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008641" lon="-7.006565">
+        <ele>1270.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008411" lon="-7.006570">
+        <ele>1267.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008289" lon="-7.006459">
+        <ele>1266.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008157" lon="-7.006135">
+        <ele>1266.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.007989" lon="-7.005910">
+        <ele>1264.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.007761" lon="-7.005797">
+        <ele>1259.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.007629" lon="-7.005543">
+        <ele>1257.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.007461" lon="-7.005254">
+        <ele>1253.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.007274" lon="-7.005112">
+        <ele>1250.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.007007" lon="-7.005204">
+        <ele>1245.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.006881" lon="-7.005307">
+        <ele>1242.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.006660" lon="-7.005555">
+        <ele>1236.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.006321" lon="-7.005473">
+        <ele>1228.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.006081" lon="-7.005311">
+        <ele>1224.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.005892" lon="-7.005258">
+        <ele>1221.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.005665" lon="-7.005328">
+        <ele>1217.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.005444" lon="-7.005362">
+        <ele>1213.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.005122" lon="-7.005287">
+        <ele>1209.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004788" lon="-7.005188">
+        <ele>1204.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004568" lon="-7.005152">
+        <ele>1201.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004444" lon="-7.005154">
+        <ele>1198.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w040</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.004385" lon="-7.005496">
+        <ele>1196.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004402" lon="-7.006012">
+        <ele>1192.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004413" lon="-7.006415">
+        <ele>1189.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004453" lon="-7.006932">
+        <ele>1186.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004453" lon="-7.007388">
+        <ele>1185.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004346" lon="-7.008268">
+        <ele>1183.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004301" lon="-7.009031">
+        <ele>1182.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004285" lon="-7.009214">
+        <ele>1182.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w041</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.004183" lon="-7.009466">
+        <ele>1181.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.003953" lon="-7.009713">
+        <ele>1176.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.003818" lon="-7.010118">
+        <ele>1174.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.003709" lon="-7.010542">
+        <ele>1171.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.003644" lon="-7.010723">
+        <ele>1169.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.003451" lon="-7.010913">
+        <ele>1164.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w042</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.003415" lon="-7.011403">
+        <ele>1161.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.003422" lon="-7.012014">
+        <ele>1156.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.003438" lon="-7.012418">
+        <ele>1154.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.003566" lon="-7.012896">
+        <ele>1153.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.003827" lon="-7.013651">
+        <ele>1154.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004040" lon="-7.014333">
+        <ele>1155.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004199" lon="-7.014895">
+        <ele>1155.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004410" lon="-7.015428">
+        <ele>1155.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004488" lon="-7.015770">
+        <ele>1156.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004465" lon="-7.016101">
+        <ele>1155.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004377" lon="-7.016590">
+        <ele>1153.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004587" lon="-7.016970">
+        <ele>1158.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.004893" lon="-7.017412">
+        <ele>1155.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.005145" lon="-7.017871">
+        <ele>1151.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.005469" lon="-7.018343">
+        <ele>1147.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.005810" lon="-7.018798">
+        <ele>1141.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.006110" lon="-7.019086">
+        <ele>1138.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w043</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.006262" lon="-7.019506">
+        <ele>1136.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.006418" lon="-7.019671">
+        <ele>1132.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.006686" lon="-7.019792">
+        <ele>1128.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.007015" lon="-7.020187">
+        <ele>1124.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.007162" lon="-7.020394">
+        <ele>1122.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.007327" lon="-7.020512">
+        <ele>1120.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.007452" lon="-7.020722">
+        <ele>1118.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.007801" lon="-7.020704">
+        <ele>1114.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008143" lon="-7.020886">
+        <ele>1108.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008364" lon="-7.020870">
+        <ele>1103.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008455" lon="-7.020992">
+        <ele>1102.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008535" lon="-7.021219">
+        <ele>1102.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008728" lon="-7.021314">
+        <ele>1097.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.008963" lon="-7.021772">
+        <ele>1091.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.009373" lon="-7.022360">
+        <ele>1076.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.009557" lon="-7.022698">
+        <ele>1068.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.009635" lon="-7.023038">
+        <ele>1064.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.009578" lon="-7.023273">
+        <ele>1065.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.009504" lon="-7.023425">
+        <ele>1067.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.009611" lon="-7.023624">
+        <ele>1063.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.009852" lon="-7.023779">
+        <ele>1058.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.009965" lon="-7.023991">
+        <ele>1056.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010033" lon="-7.024150">
+        <ele>1055.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010023" lon="-7.024320">
+        <ele>1056.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010166" lon="-7.024386">
+        <ele>1054.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010403" lon="-7.024398">
+        <ele>1050.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w044</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.010480" lon="-7.024633">
+        <ele>1049.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010642" lon="-7.024837">
+        <ele>1045.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010859" lon="-7.024981">
+        <ele>1040.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010856" lon="-7.025151">
+        <ele>1039.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010788" lon="-7.025391">
+        <ele>1039.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w045</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_u_turn_rignt.png</sym>
+      </trkpt>
+      <trkpt lat="42.010895" lon="-7.025337">
+        <ele>1037.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011151" lon="-7.025047">
+        <ele>1034.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011332" lon="-7.025005">
+        <ele>1031.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011563" lon="-7.025127">
+        <ele>1027.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011866" lon="-7.025387">
+        <ele>1020.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012057" lon="-7.025545">
+        <ele>1014.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w046 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.012331" lon="-7.025648">
+        <ele>1010.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012327" lon="-7.025850">
+        <ele>1008.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012331" lon="-7.026086">
+        <ele>1005.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w047 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.012449" lon="-7.026226">
+        <ele>1003.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012588" lon="-7.026203">
+        <ele>1002.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012650" lon="-7.026191">
+        <ele>1002.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w048 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.012840" lon="-7.026262">
+        <ele>1000.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012972" lon="-7.026512">
+        <ele>999.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w049 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.012926" lon="-7.026779">
+        <ele>998.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012991" lon="-7.026896">
+        <ele>998.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013053" lon="-7.026992">
+        <ele>998.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w050 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.012970" lon="-7.027231">
+        <ele>997.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013016" lon="-7.027524">
+        <ele>996.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013076" lon="-7.027755">
+        <ele>996.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w051 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.013085" lon="-7.028094">
+        <ele>994.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013006" lon="-7.028534">
+        <ele>993.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013026" lon="-7.029036">
+        <ele>992.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013019" lon="-7.029236">
+        <ele>991.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w052 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.012921" lon="-7.029327">
+        <ele>991.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012818" lon="-7.029616">
+        <ele>990.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012700" lon="-7.029955">
+        <ele>990.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012603" lon="-7.030290">
+        <ele>990.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012473" lon="-7.030600">
+        <ele>990.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012239" lon="-7.030878">
+        <ele>990.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012058" lon="-7.031031">
+        <ele>989.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011810" lon="-7.031066">
+        <ele>989.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011529" lon="-7.031323">
+        <ele>988.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011297" lon="-7.031539">
+        <ele>987.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011124" lon="-7.031726">
+        <ele>986.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w053 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.011170" lon="-7.031949">
+        <ele>986.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011274" lon="-7.032195">
+        <ele>986.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011352" lon="-7.032413">
+        <ele>986.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011478" lon="-7.032643">
+        <ele>985.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w054 compar limieza 400</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.011582" lon="-7.032912">
+        <ele>985.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011630" lon="-7.033183">
+        <ele>985.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011607" lon="-7.033475">
+        <ele>984.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011502" lon="-7.033694">
+        <ele>984.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011413" lon="-7.033833">
+        <ele>983.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011306" lon="-7.034161">
+        <ele>982.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011206" lon="-7.034533">
+        <ele>981.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011168" lon="-7.035230">
+        <ele>977.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011101" lon="-7.035717">
+        <ele>974.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010938" lon="-7.036157">
+        <ele>970.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010903" lon="-7.036459">
+        <ele>968.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010800" lon="-7.037092">
+        <ele>962.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010822" lon="-7.037463">
+        <ele>959.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010877" lon="-7.037915">
+        <ele>956.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.010905" lon="-7.038518">
+        <ele>951.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011052" lon="-7.039287">
+        <ele>949.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011151" lon="-7.039612">
+        <ele>949.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d001 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.011214" lon="-7.039726">
+        <ele>950.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011377" lon="-7.040030">
+        <ele>952.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011593" lon="-7.040363">
+        <ele>956.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.011996" lon="-7.040877">
+        <ele>963.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012236" lon="-7.041283">
+        <ele>966.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012461" lon="-7.041640">
+        <ele>970.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012605" lon="-7.042026">
+        <ele>973.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d002 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.012482" lon="-7.042627">
+        <ele>979.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d003 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.012543" lon="-7.043144">
+        <ele>983.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012388" lon="-7.043480">
+        <ele>984.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.012365" lon="-7.043735">
+        <ele>986.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w228 compar cara de poste con vilavella y poste con a gudiña(en otra cara)</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.012582" lon="-7.043941">
+        <ele>988.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013230" lon="-7.045087">
+        <ele>995.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013297" lon="-7.045236">
+        <ele>996.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013561" lon="-7.045884">
+        <ele>998.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w229 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.013852" lon="-7.047216">
+        <ele>1001.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.013993" lon="-7.047885">
+        <ele>1004.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.014058" lon="-7.048343">
+        <ele>1005.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.014049" lon="-7.048704">
+        <ele>1006.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w230 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.014097" lon="-7.048945">
+        <ele>1006.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.015196" lon="-7.049687">
+        <ele>1004.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w231 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.015723" lon="-7.049934">
+        <ele>1003.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w232 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.017152" lon="-7.050001">
+        <ele>1005.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.018249" lon="-7.050345">
+        <ele>1003.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.018784" lon="-7.050643">
+        <ele>1003.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.019412" lon="-7.050803">
+        <ele>1003.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.020365" lon="-7.050823">
+        <ele>1004.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.020716" lon="-7.051052">
+        <ele>1003.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.021121" lon="-7.051082">
+        <ele>1005.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.021738" lon="-7.051438">
+        <ele>1006.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w232 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.022032" lon="-7.051616">
+        <ele>1008.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.023665" lon="-7.051954">
+        <ele>1001.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.023814" lon="-7.052082">
+        <ele>998.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.024488" lon="-7.052239">
+        <ele>995.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.024760" lon="-7.052421">
+        <ele>991.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.025210" lon="-7.052559">
+        <ele>985.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.025694" lon="-7.052608">
+        <ele>982.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.026667" lon="-7.052903">
+        <ele>970.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027064" lon="-7.053437">
+        <ele>962.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027200" lon="-7.053514">
+        <ele>960.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w234 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.027359" lon="-7.053245">
+        <ele>960.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.027675" lon="-7.051942">
+        <ele>958.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w235 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.027817" lon="-7.051767">
+        <ele>957.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.028460" lon="-7.051771">
+        <ele>948.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029128" lon="-7.051832">
+        <ele>942.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w236 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.029502" lon="-7.051726">
+        <ele>939.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029836" lon="-7.051512">
+        <ele>940.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030074" lon="-7.051487">
+        <ele>940.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>w237 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.030284" lon="-7.051001">
+        <ele>941.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>--</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.030567" lon="-7.050273">
+        <ele>943.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030756" lon="-7.049726">
+        <ele>944.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030917" lon="-7.049422">
+        <ele>945.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031277" lon="-7.049090">
+        <ele>946.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d005</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.031122" lon="-7.048900">
+        <ele>945.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030819" lon="-7.048639">
+        <ele>945.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030524" lon="-7.048207">
+        <ele>947.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030324" lon="-7.047868">
+        <ele>949.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030054" lon="-7.047565">
+        <ele>949.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>--</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.029974" lon="-7.047321">
+        <ele>949.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029917" lon="-7.046972">
+        <ele>950.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029952" lon="-7.046629">
+        <ele>951.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029985" lon="-7.045925">
+        <ele>953.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030012" lon="-7.045163">
+        <ele>956.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029950" lon="-7.044726">
+        <ele>956.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d006</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.029960" lon="-7.044541">
+        <ele>957.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.029988" lon="-7.044294">
+        <ele>957.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030118" lon="-7.043993">
+        <ele>959.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030398" lon="-7.043651">
+        <ele>961.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030519" lon="-7.043424">
+        <ele>961.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030663" lon="-7.043078">
+        <ele>960.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030772" lon="-7.042560">
+        <ele>959.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.030898" lon="-7.042269">
+        <ele>960.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d007</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.030945" lon="-7.042214">
+        <ele>960.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031150" lon="-7.041714">
+        <ele>961.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031347" lon="-7.041493">
+        <ele>962.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031565" lon="-7.041252">
+        <ele>964.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031842" lon="-7.040969">
+        <ele>966.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032003" lon="-7.040705">
+        <ele>965.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032078" lon="-7.040350">
+        <ele>961.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032158" lon="-7.039682">
+        <ele>961.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032236" lon="-7.039156">
+        <ele>962.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032379" lon="-7.038700">
+        <ele>963.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032441" lon="-7.038163">
+        <ele>963.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032450" lon="-7.037667">
+        <ele>962.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032507" lon="-7.037275">
+        <ele>962.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032608" lon="-7.036795">
+        <ele>963.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032654" lon="-7.036284">
+        <ele>965.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032640" lon="-7.035747">
+        <ele>967.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d008</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.032503" lon="-7.035399">
+        <ele>968.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032331" lon="-7.034958">
+        <ele>967.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d009</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.032205" lon="-7.034780">
+        <ele>967.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031954" lon="-7.034460">
+        <ele>966.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031860" lon="-7.034103">
+        <ele>965.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031872" lon="-7.033865">
+        <ele>964.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032009" lon="-7.033462">
+        <ele>964.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032040" lon="-7.033179">
+        <ele>965.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d010</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.032167" lon="-7.032768">
+        <ele>965.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032374" lon="-7.032364">
+        <ele>965.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032508" lon="-7.031995">
+        <ele>966.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032597" lon="-7.031427">
+        <ele>968.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032528" lon="-7.030865">
+        <ele>969.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d011</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.032374" lon="-7.030268">
+        <ele>971.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032363" lon="-7.029838">
+        <ele>972.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032181" lon="-7.029375">
+        <ele>971.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032031" lon="-7.029058">
+        <ele>971.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031979" lon="-7.028688">
+        <ele>972.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032050" lon="-7.028240">
+        <ele>971.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032095" lon="-7.027674">
+        <ele>970.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032131" lon="-7.027122">
+        <ele>969.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032091" lon="-7.026667">
+        <ele>969.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031943" lon="-7.026240">
+        <ele>970.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031915" lon="-7.025892">
+        <ele>972.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.031962" lon="-7.025578">
+        <ele>974.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032098" lon="-7.025224">
+        <ele>976.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032324" lon="-7.025139">
+        <ele>979.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.032843" lon="-7.024950">
+        <ele>986.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033200" lon="-7.024823">
+        <ele>992.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033354" lon="-7.024626">
+        <ele>995.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033540" lon="-7.024404">
+        <ele>997.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033757" lon="-7.024230">
+        <ele>999.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.033878" lon="-7.024146">
+        <ele>1001.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034166" lon="-7.024043">
+        <ele>1005.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034235" lon="-7.023991">
+        <ele>1005.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034291" lon="-7.023912">
+        <ele>1005.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d012</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.034295" lon="-7.023861">
+        <ele>1005.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034419" lon="-7.023716">
+        <ele>1005.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034741" lon="-7.023602">
+        <ele>1008.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.034991" lon="-7.023397">
+        <ele>1008.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035375" lon="-7.023172">
+        <ele>1010.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035493" lon="-7.022920">
+        <ele>1007.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035660" lon="-7.022603">
+        <ele>1005.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.035918" lon="-7.022345">
+        <ele>1008.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d013</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.036069" lon="-7.022069">
+        <ele>1009.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036235" lon="-7.021617">
+        <ele>1008.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036362" lon="-7.021188">
+        <ele>1007.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036635" lon="-7.020800">
+        <ele>1009.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036841" lon="-7.020491">
+        <ele>1010.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036997" lon="-7.020085">
+        <ele>1009.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037170" lon="-7.019562">
+        <ele>1008.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037256" lon="-7.019188">
+        <ele>1008.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037340" lon="-7.018776">
+        <ele>1006.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037433" lon="-7.018409">
+        <ele>1007.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037383" lon="-7.018263">
+        <ele>1006.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037213" lon="-7.018141">
+        <ele>1004.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037094" lon="-7.017988">
+        <ele>1003.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036999" lon="-7.017713">
+        <ele>1009.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036798" lon="-7.017557">
+        <ele>1015.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036654" lon="-7.017351">
+        <ele>1021.5</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036394" lon="-7.017215">
+        <ele>1027.2</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036480" lon="-7.017001">
+        <ele>1028.8</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036507" lon="-7.016796">
+        <ele>1029.9</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036467" lon="-7.016550">
+        <ele>1031.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036535" lon="-7.016251">
+        <ele>1033.7</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036595" lon="-7.015891">
+        <ele>1034.4</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036650" lon="-7.015599">
+        <ele>1035.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>d014</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.036617" lon="-7.015385">
+        <ele>1035.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036642" lon="-7.015166">
+        <ele>1036.1</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036766" lon="-7.015024">
+        <ele>1037.3</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.036893" lon="-7.014897">
+        <ele>1038.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037047" lon="-7.014803">
+        <ele>1040.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+        <cmt>6073</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.037215" lon="-7.014698">
+        <ele>1041.6</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+      <trkpt lat="42.037390" lon="-7.014661">
+        <ele>1043.0</ele>
+        <time>2012-10-22T15:41:59Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

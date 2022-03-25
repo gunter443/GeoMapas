@@ -1,0 +1,1474 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="CompeGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+  <metadata>
+    <link href="http://www.compegps.com">
+      <text>CompeGPS TEAM, SL</text>
+    </link>
+    <time>2012-12-12T23:12:24Z</time>
+    <bounds maxlat="42.211905" maxlon="-7.112320" minlat="42.166462" minlon="-7.182354"/>
+  </metadata>
+  <trk>
+    <name>10_Con_Vil_Con-Via_Bol</name>
+    <trkseg>
+      <trkpt lat="42.166462" lon="-7.182258">
+        <ele>745.7</ele>
+      </trkpt>
+      <trkpt lat="42.167007" lon="-7.182354">
+        <ele>753.0</ele>
+      </trkpt>
+      <trkpt lat="42.167273" lon="-7.182225">
+        <ele>752.2</ele>
+        <cmt>v279 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.167473" lon="-7.182117">
+        <ele>750.3</ele>
+      </trkpt>
+      <trkpt lat="42.168071" lon="-7.181969">
+        <ele>747.0</ele>
+      </trkpt>
+      <trkpt lat="42.168458" lon="-7.182067">
+        <ele>750.3</ele>
+      </trkpt>
+      <trkpt lat="42.168664" lon="-7.182045">
+        <ele>750.1</ele>
+      </trkpt>
+      <trkpt lat="42.168703" lon="-7.181930">
+        <ele>747.7</ele>
+      </trkpt>
+      <trkpt lat="42.168536" lon="-7.181646">
+        <ele>740.7</ele>
+      </trkpt>
+      <trkpt lat="42.168424" lon="-7.180978">
+        <ele>727.8</ele>
+        <cmt>v280 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.168281" lon="-7.180842">
+        <ele>723.9</ele>
+      </trkpt>
+      <trkpt lat="42.168228" lon="-7.180653">
+        <ele>720.6</ele>
+      </trkpt>
+      <trkpt lat="42.168400" lon="-7.179671">
+        <ele>715.1</ele>
+      </trkpt>
+      <trkpt lat="42.168493" lon="-7.179358">
+        <ele>714.4</ele>
+      </trkpt>
+      <trkpt lat="42.168761" lon="-7.179243">
+        <ele>720.6</ele>
+      </trkpt>
+      <trkpt lat="42.169280" lon="-7.178842">
+        <ele>725.4</ele>
+      </trkpt>
+      <trkpt lat="42.169413" lon="-7.178683">
+        <ele>724.9</ele>
+      </trkpt>
+      <trkpt lat="42.169351" lon="-7.178521">
+        <ele>720.7</ele>
+      </trkpt>
+      <trkpt lat="42.169361" lon="-7.178212">
+        <ele>714.9</ele>
+        <cmt>d052 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.169474" lon="-7.177872">
+        <ele>710.7</ele>
+      </trkpt>
+      <trkpt lat="42.169647" lon="-7.177539">
+        <ele>708.0</ele>
+      </trkpt>
+      <trkpt lat="42.169688" lon="-7.177282">
+        <ele>703.9</ele>
+      </trkpt>
+      <trkpt lat="42.169888" lon="-7.176889">
+        <ele>701.8</ele>
+      </trkpt>
+      <trkpt lat="42.170028" lon="-7.176512">
+        <ele>698.6</ele>
+      </trkpt>
+      <trkpt lat="42.170164" lon="-7.175998">
+        <ele>693.1</ele>
+      </trkpt>
+      <trkpt lat="42.170347" lon="-7.175545">
+        <ele>690.2</ele>
+      </trkpt>
+      <trkpt lat="42.170523" lon="-7.175349">
+        <ele>691.7</ele>
+      </trkpt>
+      <trkpt lat="42.170593" lon="-7.174997">
+        <ele>685.5</ele>
+      </trkpt>
+      <trkpt lat="42.170855" lon="-7.174622">
+        <ele>685.7</ele>
+      </trkpt>
+      <trkpt lat="42.171021" lon="-7.174228">
+        <ele>682.8</ele>
+      </trkpt>
+      <trkpt lat="42.171327" lon="-7.173846">
+        <ele>682.0</ele>
+        <cmt>d053 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.171394" lon="-7.173721">
+        <ele>680.5</ele>
+      </trkpt>
+      <trkpt lat="42.171808" lon="-7.173660">
+        <ele>687.9</ele>
+      </trkpt>
+      <trkpt lat="42.172290" lon="-7.173073">
+        <ele>688.6</ele>
+      </trkpt>
+      <trkpt lat="42.172719" lon="-7.172799">
+        <ele>693.9</ele>
+      </trkpt>
+      <trkpt lat="42.172957" lon="-7.172518">
+        <ele>694.1</ele>
+      </trkpt>
+      <trkpt lat="42.173130" lon="-7.172237">
+        <ele>693.2</ele>
+      </trkpt>
+      <trkpt lat="42.173330" lon="-7.172018">
+        <ele>694.2</ele>
+      </trkpt>
+      <trkpt lat="42.173418" lon="-7.171814">
+        <ele>692.4</ele>
+        <cmt>d054 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.173392" lon="-7.171621">
+        <ele>687.9</ele>
+        <cmt>d055 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.173521" lon="-7.171461">
+        <ele>687.4</ele>
+      </trkpt>
+      <trkpt lat="42.173529" lon="-7.171092">
+        <ele>681.7</ele>
+        <cmt>d056 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.173571" lon="-7.170650">
+        <ele>679.0</ele>
+      </trkpt>
+      <trkpt lat="42.173765" lon="-7.170430">
+        <ele>681.6</ele>
+      </trkpt>
+      <trkpt lat="42.173870" lon="-7.170140">
+        <ele>683.3</ele>
+      </trkpt>
+      <trkpt lat="42.174021" lon="-7.170065">
+        <ele>687.4</ele>
+      </trkpt>
+      <trkpt lat="42.174211" lon="-7.170160">
+        <ele>693.6</ele>
+      </trkpt>
+      <trkpt lat="42.174229" lon="-7.170735">
+        <ele>698.2</ele>
+      </trkpt>
+      <trkpt lat="42.174358" lon="-7.170803">
+        <ele>702.7</ele>
+      </trkpt>
+      <trkpt lat="42.174596" lon="-7.170686">
+        <ele>709.3</ele>
+      </trkpt>
+      <trkpt lat="42.174944" lon="-7.170852">
+        <ele>721.2</ele>
+      </trkpt>
+      <trkpt lat="42.175210" lon="-7.170831">
+        <ele>729.1</ele>
+      </trkpt>
+      <trkpt lat="42.175484" lon="-7.170752">
+        <ele>735.8</ele>
+      </trkpt>
+      <trkpt lat="42.175553" lon="-7.170786">
+        <ele>738.0</ele>
+        <cmt>d057 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.175643" lon="-7.170422">
+        <ele>734.0</ele>
+      </trkpt>
+      <trkpt lat="42.175819" lon="-7.169857">
+        <ele>729.6</ele>
+      </trkpt>
+      <trkpt lat="42.176022" lon="-7.169351">
+        <ele>728.5</ele>
+      </trkpt>
+      <trkpt lat="42.176514" lon="-7.168296">
+        <ele>730.9</ele>
+      </trkpt>
+      <trkpt lat="42.176722" lon="-7.168025">
+        <ele>733.5</ele>
+      </trkpt>
+      <trkpt lat="42.176799" lon="-7.167966">
+        <ele>734.7</ele>
+        <cmt>d058 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.177077" lon="-7.167826">
+        <ele>739.9</ele>
+      </trkpt>
+      <trkpt lat="42.177374" lon="-7.167684">
+        <ele>744.4</ele>
+      </trkpt>
+      <trkpt lat="42.177699" lon="-7.167741">
+        <ele>752.1</ele>
+      </trkpt>
+      <trkpt lat="42.177835" lon="-7.167847">
+        <ele>756.9</ele>
+      </trkpt>
+      <trkpt lat="42.178061" lon="-7.167863">
+        <ele>760.2</ele>
+      </trkpt>
+      <trkpt lat="42.178308" lon="-7.167948">
+        <ele>763.7</ele>
+      </trkpt>
+      <trkpt lat="42.178453" lon="-7.168007">
+        <ele>765.6</ele>
+      </trkpt>
+      <trkpt lat="42.178580" lon="-7.168167">
+        <ele>768.4</ele>
+      </trkpt>
+      <trkpt lat="42.178620" lon="-7.168286">
+        <ele>770.0</ele>
+      </trkpt>
+      <trkpt lat="42.178665" lon="-7.168334">
+        <ele>770.9</ele>
+        <cmt>d059 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.178710" lon="-7.168355">
+        <ele>771.4</ele>
+      </trkpt>
+      <trkpt lat="42.178848" lon="-7.168240">
+        <ele>769.7</ele>
+      </trkpt>
+      <trkpt lat="42.178892" lon="-7.168103">
+        <ele>767.7</ele>
+      </trkpt>
+      <trkpt lat="42.178932" lon="-7.167920">
+        <ele>765.3</ele>
+      </trkpt>
+      <trkpt lat="42.179012" lon="-7.167765">
+        <ele>761.6</ele>
+      </trkpt>
+      <trkpt lat="42.179154" lon="-7.167619">
+        <ele>757.9</ele>
+        <cmt>d060 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.179358" lon="-7.167286">
+        <ele>751.4</ele>
+      </trkpt>
+      <trkpt lat="42.179415" lon="-7.167229">
+        <ele>750.4</ele>
+      </trkpt>
+      <trkpt lat="42.179541" lon="-7.167164">
+        <ele>749.1</ele>
+      </trkpt>
+      <trkpt lat="42.179707" lon="-7.167164">
+        <ele>746.1</ele>
+      </trkpt>
+      <trkpt lat="42.179822" lon="-7.167145">
+        <ele>743.0</ele>
+      </trkpt>
+      <trkpt lat="42.179947" lon="-7.167019">
+        <ele>738.6</ele>
+      </trkpt>
+      <trkpt lat="42.180045" lon="-7.166831">
+        <ele>734.7</ele>
+      </trkpt>
+      <trkpt lat="42.180061" lon="-7.166696">
+        <ele>733.3</ele>
+      </trkpt>
+      <trkpt lat="42.180039" lon="-7.166541">
+        <ele>732.3</ele>
+      </trkpt>
+      <trkpt lat="42.180078" lon="-7.166443">
+        <ele>731.0</ele>
+      </trkpt>
+      <trkpt lat="42.180155" lon="-7.166431">
+        <ele>730.1</ele>
+      </trkpt>
+      <trkpt lat="42.180219" lon="-7.166366">
+        <ele>729.0</ele>
+      </trkpt>
+      <trkpt lat="42.180360" lon="-7.166413">
+        <ele>727.8</ele>
+        <cmt>d061 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.180501" lon="-7.166469">
+        <ele>725.4</ele>
+      </trkpt>
+      <trkpt lat="42.180781" lon="-7.167151">
+        <ele>722.0</ele>
+      </trkpt>
+      <trkpt lat="42.180788" lon="-7.167244">
+        <ele>723.3</ele>
+      </trkpt>
+      <trkpt lat="42.180781" lon="-7.167315">
+        <ele>724.4</ele>
+      </trkpt>
+      <trkpt lat="42.180820" lon="-7.167372">
+        <ele>724.7</ele>
+        <cmt>d062 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.180876" lon="-7.167332">
+        <ele>723.3</ele>
+      </trkpt>
+      <trkpt lat="42.180900" lon="-7.167241">
+        <ele>721.4</ele>
+      </trkpt>
+      <trkpt lat="42.180948" lon="-7.167144">
+        <ele>718.9</ele>
+        <cmt>v281 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.181217" lon="-7.167158">
+        <ele>714.3</ele>
+      </trkpt>
+      <trkpt lat="42.181402" lon="-7.166945">
+        <ele>712.3</ele>
+      </trkpt>
+      <trkpt lat="42.181610" lon="-7.166894">
+        <ele>712.9</ele>
+      </trkpt>
+      <trkpt lat="42.181701" lon="-7.166752">
+        <ele>711.6</ele>
+      </trkpt>
+      <trkpt lat="42.181695" lon="-7.166521">
+        <ele>708.7</ele>
+      </trkpt>
+      <trkpt lat="42.181891" lon="-7.165776">
+        <ele>698.5</ele>
+      </trkpt>
+      <trkpt lat="42.181907" lon="-7.165281">
+        <ele>692.8</ele>
+      </trkpt>
+      <trkpt lat="42.181649" lon="-7.164587">
+        <ele>682.3</ele>
+      </trkpt>
+      <trkpt lat="42.181724" lon="-7.164102">
+        <ele>681.0</ele>
+      </trkpt>
+      <trkpt lat="42.181868" lon="-7.163758">
+        <ele>683.6</ele>
+      </trkpt>
+      <trkpt lat="42.182090" lon="-7.163404">
+        <ele>686.8</ele>
+      </trkpt>
+      <trkpt lat="42.182447" lon="-7.162243">
+        <ele>684.2</ele>
+        <cmt>v282 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.181958" lon="-7.161827">
+        <ele>676.6</ele>
+      </trkpt>
+      <trkpt lat="42.181771" lon="-7.161797">
+        <ele>673.8</ele>
+      </trkpt>
+      <trkpt lat="42.181572" lon="-7.161961">
+        <ele>671.3</ele>
+      </trkpt>
+      <trkpt lat="42.180899" lon="-7.161761">
+        <ele>660.2</ele>
+      </trkpt>
+      <trkpt lat="42.180818" lon="-7.161585">
+        <ele>658.6</ele>
+      </trkpt>
+      <trkpt lat="42.180879" lon="-7.161395">
+        <ele>659.4</ele>
+      </trkpt>
+      <trkpt lat="42.181116" lon="-7.161295">
+        <ele>663.0</ele>
+      </trkpt>
+      <trkpt lat="42.181203" lon="-7.161068">
+        <ele>662.0</ele>
+      </trkpt>
+      <trkpt lat="42.181427" lon="-7.160856">
+        <ele>661.9</ele>
+      </trkpt>
+      <trkpt lat="42.181513" lon="-7.160683">
+        <ele>660.4</ele>
+        <cmt>v283 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_bifuraction_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.181272" lon="-7.158236">
+        <ele>654.4</ele>
+      </trkpt>
+      <trkpt lat="42.181281" lon="-7.158051">
+        <ele>656.6</ele>
+        <cmt>v284 compar poste dos placas
+</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.181462" lon="-7.157807">
+        <ele>657.2</ele>
+      </trkpt>
+      <trkpt lat="42.181648" lon="-7.157585">
+        <ele>658.4</ele>
+      </trkpt>
+      <trkpt lat="42.181844" lon="-7.157324">
+        <ele>659.5</ele>
+      </trkpt>
+      <trkpt lat="42.181857" lon="-7.157155">
+        <ele>662.9</ele>
+      </trkpt>
+      <trkpt lat="42.181748" lon="-7.156842">
+        <ele>671.8</ele>
+      </trkpt>
+      <trkpt lat="42.181672" lon="-7.156640">
+        <ele>677.6</ele>
+      </trkpt>
+      <trkpt lat="42.181569" lon="-7.156245">
+        <ele>687.7</ele>
+      </trkpt>
+      <trkpt lat="42.181611" lon="-7.156086">
+        <ele>688.0</ele>
+      </trkpt>
+      <trkpt lat="42.181815" lon="-7.156020">
+        <ele>682.6</ele>
+      </trkpt>
+      <trkpt lat="42.182098" lon="-7.155985">
+        <ele>674.9</ele>
+      </trkpt>
+      <trkpt lat="42.182314" lon="-7.156091">
+        <ele>669.9</ele>
+        <cmt>v285
+</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.182477" lon="-7.156107">
+        <ele>667.0</ele>
+      </trkpt>
+      <trkpt lat="42.182622" lon="-7.155721">
+        <ele>672.3</ele>
+      </trkpt>
+      <trkpt lat="42.182831" lon="-7.155316">
+        <ele>678.3</ele>
+      </trkpt>
+      <trkpt lat="42.183186" lon="-7.154820">
+        <ele>684.6</ele>
+      </trkpt>
+      <trkpt lat="42.183515" lon="-7.154538">
+        <ele>683.9</ele>
+      </trkpt>
+      <trkpt lat="42.183744" lon="-7.154335">
+        <ele>683.8</ele>
+      </trkpt>
+      <trkpt lat="42.183918" lon="-7.154115">
+        <ele>683.2</ele>
+      </trkpt>
+      <trkpt lat="42.183940" lon="-7.153946">
+        <ele>685.7</ele>
+      </trkpt>
+      <trkpt lat="42.183926" lon="-7.153658">
+        <ele>691.1</ele>
+      </trkpt>
+      <trkpt lat="42.183994" lon="-7.153519">
+        <ele>690.2</ele>
+      </trkpt>
+      <trkpt lat="42.184180" lon="-7.153361">
+        <ele>685.1</ele>
+      </trkpt>
+      <trkpt lat="42.184456" lon="-7.153357">
+        <ele>674.9</ele>
+      </trkpt>
+      <trkpt lat="42.184698" lon="-7.153284">
+        <ele>668.4</ele>
+      </trkpt>
+      <trkpt lat="42.184793" lon="-7.153053">
+        <ele>668.8</ele>
+      </trkpt>
+      <trkpt lat="42.184846" lon="-7.152747">
+        <ele>670.9</ele>
+      </trkpt>
+      <trkpt lat="42.184794" lon="-7.152386">
+        <ele>677.1</ele>
+      </trkpt>
+      <trkpt lat="42.184882" lon="-7.152310">
+        <ele>675.2</ele>
+      </trkpt>
+      <trkpt lat="42.185002" lon="-7.152252">
+        <ele>671.9</ele>
+      </trkpt>
+      <trkpt lat="42.185308" lon="-7.152102">
+        <ele>663.4</ele>
+      </trkpt>
+      <trkpt lat="42.185486" lon="-7.152030">
+        <ele>659.8</ele>
+      </trkpt>
+      <trkpt lat="42.185670" lon="-7.151853">
+        <ele>659.8</ele>
+      </trkpt>
+      <trkpt lat="42.185792" lon="-7.151640">
+        <ele>661.0</ele>
+      </trkpt>
+      <trkpt lat="42.185892" lon="-7.151352">
+        <ele>663.6</ele>
+      </trkpt>
+      <trkpt lat="42.185912" lon="-7.151078">
+        <ele>668.8</ele>
+      </trkpt>
+      <trkpt lat="42.185950" lon="-7.150834">
+        <ele>673.5</ele>
+      </trkpt>
+      <trkpt lat="42.186088" lon="-7.150767">
+        <ele>671.6</ele>
+      </trkpt>
+      <trkpt lat="42.186267" lon="-7.150792">
+        <ele>666.5</ele>
+      </trkpt>
+      <trkpt lat="42.186442" lon="-7.150453">
+        <ele>668.2</ele>
+      </trkpt>
+      <trkpt lat="42.186606" lon="-7.150251">
+        <ele>666.9</ele>
+      </trkpt>
+      <trkpt lat="42.186760" lon="-7.150252">
+        <ele>662.0</ele>
+      </trkpt>
+      <trkpt lat="42.186960" lon="-7.150161">
+        <ele>657.7</ele>
+      </trkpt>
+      <trkpt lat="42.187324" lon="-7.149923">
+        <ele>655.8</ele>
+      </trkpt>
+      <trkpt lat="42.187607" lon="-7.149731">
+        <ele>655.4</ele>
+      </trkpt>
+      <trkpt lat="42.188095" lon="-7.149393">
+        <ele>656.1</ele>
+      </trkpt>
+      <trkpt lat="42.188612" lon="-7.149061">
+        <ele>655.5</ele>
+      </trkpt>
+      <trkpt lat="42.188901" lon="-7.148948">
+        <ele>653.7</ele>
+      </trkpt>
+      <trkpt lat="42.189174" lon="-7.148648">
+        <ele>657.8</ele>
+      </trkpt>
+      <trkpt lat="42.189388" lon="-7.148511">
+        <ele>657.7</ele>
+      </trkpt>
+      <trkpt lat="42.189585" lon="-7.148648">
+        <ele>651.2</ele>
+      </trkpt>
+      <trkpt lat="42.189712" lon="-7.149141">
+        <ele>642.2</ele>
+      </trkpt>
+      <trkpt lat="42.189792" lon="-7.149199">
+        <ele>640.9</ele>
+      </trkpt>
+      <trkpt lat="42.189995" lon="-7.149161">
+        <ele>641.1</ele>
+      </trkpt>
+      <trkpt lat="42.190199" lon="-7.149130">
+        <ele>641.3</ele>
+      </trkpt>
+      <trkpt lat="42.190568" lon="-7.149102">
+        <ele>641.8</ele>
+      </trkpt>
+      <trkpt lat="42.190781" lon="-7.149031">
+        <ele>643.6</ele>
+      </trkpt>
+      <trkpt lat="42.190966" lon="-7.148987">
+        <ele>644.6</ele>
+      </trkpt>
+      <trkpt lat="42.191476" lon="-7.148789">
+        <ele>647.8</ele>
+      </trkpt>
+      <trkpt lat="42.191647" lon="-7.148700">
+        <ele>649.1</ele>
+      </trkpt>
+      <trkpt lat="42.191728" lon="-7.148559">
+        <ele>651.7</ele>
+      </trkpt>
+      <trkpt lat="42.191784" lon="-7.148299">
+        <ele>656.7</ele>
+      </trkpt>
+      <trkpt lat="42.191860" lon="-7.148298">
+        <ele>656.2</ele>
+      </trkpt>
+      <trkpt lat="42.191994" lon="-7.148283">
+        <ele>655.5</ele>
+      </trkpt>
+      <trkpt lat="42.192130" lon="-7.148219">
+        <ele>655.8</ele>
+      </trkpt>
+      <trkpt lat="42.192208" lon="-7.148299">
+        <ele>654.3</ele>
+      </trkpt>
+      <trkpt lat="42.192267" lon="-7.148466">
+        <ele>651.5</ele>
+      </trkpt>
+      <trkpt lat="42.192521" lon="-7.148652">
+        <ele>648.5</ele>
+      </trkpt>
+      <trkpt lat="42.192652" lon="-7.148882">
+        <ele>645.8</ele>
+        <cmt>v286</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.192790" lon="-7.148803">
+        <ele>646.6</ele>
+      </trkpt>
+      <trkpt lat="42.192994" lon="-7.148526">
+        <ele>649.8</ele>
+      </trkpt>
+      <trkpt lat="42.193263" lon="-7.148104">
+        <ele>653.6</ele>
+        <cmt>v287</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.193348" lon="-7.147696">
+        <ele>656.3</ele>
+      </trkpt>
+      <trkpt lat="42.193326" lon="-7.147263">
+        <ele>659.4</ele>
+      </trkpt>
+      <trkpt lat="42.193214" lon="-7.146895">
+        <ele>663.4</ele>
+      </trkpt>
+      <trkpt lat="42.193295" lon="-7.146710">
+        <ele>663.0</ele>
+      </trkpt>
+      <trkpt lat="42.193608" lon="-7.146471">
+        <ele>658.2</ele>
+      </trkpt>
+      <trkpt lat="42.193803" lon="-7.146248">
+        <ele>655.5</ele>
+      </trkpt>
+      <trkpt lat="42.193796" lon="-7.146048">
+        <ele>657.8</ele>
+      </trkpt>
+      <trkpt lat="42.193639" lon="-7.145733">
+        <ele>664.8</ele>
+      </trkpt>
+      <trkpt lat="42.193547" lon="-7.145536">
+        <ele>669.5</ele>
+      </trkpt>
+      <trkpt lat="42.193567" lon="-7.145258">
+        <ele>672.3</ele>
+      </trkpt>
+      <trkpt lat="42.193649" lon="-7.144974">
+        <ele>672.8</ele>
+      </trkpt>
+      <trkpt lat="42.193618" lon="-7.144663">
+        <ele>676.9</ele>
+      </trkpt>
+      <trkpt lat="42.193576" lon="-7.144343">
+        <ele>680.4</ele>
+      </trkpt>
+      <trkpt lat="42.193483" lon="-7.144071">
+        <ele>684.9</ele>
+      </trkpt>
+      <trkpt lat="42.193509" lon="-7.143908">
+        <ele>684.7</ele>
+      </trkpt>
+      <trkpt lat="42.193617" lon="-7.144006">
+        <ele>680.5</ele>
+      </trkpt>
+      <trkpt lat="42.193794" lon="-7.144190">
+        <ele>673.7</ele>
+      </trkpt>
+      <trkpt lat="42.193935" lon="-7.144390">
+        <ele>668.7</ele>
+      </trkpt>
+      <trkpt lat="42.194153" lon="-7.144458">
+        <ele>662.0</ele>
+      </trkpt>
+      <trkpt lat="42.194473" lon="-7.144519">
+        <ele>652.1</ele>
+      </trkpt>
+      <trkpt lat="42.194724" lon="-7.144402">
+        <ele>649.8</ele>
+      </trkpt>
+      <trkpt lat="42.194930" lon="-7.144141">
+        <ele>652.2</ele>
+      </trkpt>
+      <trkpt lat="42.195084" lon="-7.143771">
+        <ele>655.7</ele>
+      </trkpt>
+      <trkpt lat="42.195099" lon="-7.143335">
+        <ele>662.1</ele>
+      </trkpt>
+      <trkpt lat="42.195032" lon="-7.143094">
+        <ele>666.7</ele>
+      </trkpt>
+      <trkpt lat="42.195268" lon="-7.142884">
+        <ele>666.0</ele>
+      </trkpt>
+      <trkpt lat="42.195465" lon="-7.142644">
+        <ele>665.2</ele>
+      </trkpt>
+      <trkpt lat="42.195527" lon="-7.142267">
+        <ele>668.0</ele>
+      </trkpt>
+      <trkpt lat="42.195637" lon="-7.142181">
+        <ele>666.2</ele>
+      </trkpt>
+      <trkpt lat="42.195772" lon="-7.142257">
+        <ele>662.0</ele>
+      </trkpt>
+      <trkpt lat="42.195900" lon="-7.142061">
+        <ele>660.7</ele>
+      </trkpt>
+      <trkpt lat="42.196192" lon="-7.141836">
+        <ele>658.1</ele>
+      </trkpt>
+      <trkpt lat="42.196421" lon="-7.141534">
+        <ele>659.7</ele>
+      </trkpt>
+      <trkpt lat="42.196571" lon="-7.141202">
+        <ele>661.7</ele>
+      </trkpt>
+      <trkpt lat="42.196585" lon="-7.140759">
+        <ele>670.4</ele>
+      </trkpt>
+      <trkpt lat="42.196714" lon="-7.140592">
+        <ele>669.4</ele>
+      </trkpt>
+      <trkpt lat="42.196902" lon="-7.140465">
+        <ele>665.4</ele>
+      </trkpt>
+      <trkpt lat="42.197161" lon="-7.140398">
+        <ele>658.7</ele>
+      </trkpt>
+      <trkpt lat="42.197495" lon="-7.140181">
+        <ele>656.4</ele>
+      </trkpt>
+      <trkpt lat="42.197763" lon="-7.139872">
+        <ele>658.1</ele>
+      </trkpt>
+      <trkpt lat="42.198038" lon="-7.139634">
+        <ele>657.9</ele>
+      </trkpt>
+      <trkpt lat="42.198647" lon="-7.139202">
+        <ele>655.5</ele>
+      </trkpt>
+      <trkpt lat="42.199007" lon="-7.138882">
+        <ele>656.9</ele>
+      </trkpt>
+      <trkpt lat="42.199133" lon="-7.138655">
+        <ele>658.4</ele>
+      </trkpt>
+      <trkpt lat="42.199179" lon="-7.138332">
+        <ele>662.2</ele>
+      </trkpt>
+      <trkpt lat="42.199055" lon="-7.138046">
+        <ele>670.6</ele>
+      </trkpt>
+      <trkpt lat="42.198818" lon="-7.137753">
+        <ele>679.7</ele>
+      </trkpt>
+      <trkpt lat="42.198591" lon="-7.137507">
+        <ele>686.0</ele>
+      </trkpt>
+      <trkpt lat="42.198359" lon="-7.137250">
+        <ele>693.9</ele>
+      </trkpt>
+      <trkpt lat="42.198253" lon="-7.137059">
+        <ele>697.9</ele>
+      </trkpt>
+      <trkpt lat="42.198124" lon="-7.136714">
+        <ele>697.0</ele>
+      </trkpt>
+      <trkpt lat="42.198087" lon="-7.136593">
+        <ele>696.3</ele>
+      </trkpt>
+      <trkpt lat="42.198287" lon="-7.136578">
+        <ele>688.1</ele>
+      </trkpt>
+      <trkpt lat="42.198563" lon="-7.136597">
+        <ele>677.3</ele>
+      </trkpt>
+      <trkpt lat="42.198849" lon="-7.136608">
+        <ele>668.3</ele>
+      </trkpt>
+      <trkpt lat="42.199273" lon="-7.136688">
+        <ele>660.6</ele>
+      </trkpt>
+      <trkpt lat="42.199744" lon="-7.136834">
+        <ele>651.4</ele>
+      </trkpt>
+      <trkpt lat="42.200268" lon="-7.136935">
+        <ele>646.1</ele>
+      </trkpt>
+      <trkpt lat="42.200650" lon="-7.136894">
+        <ele>647.5</ele>
+      </trkpt>
+      <trkpt lat="42.201212" lon="-7.136908">
+        <ele>650.4</ele>
+      </trkpt>
+      <trkpt lat="42.201608" lon="-7.136891">
+        <ele>650.7</ele>
+      </trkpt>
+      <trkpt lat="42.202210" lon="-7.137023">
+        <ele>647.7</ele>
+      </trkpt>
+      <trkpt lat="42.202481" lon="-7.137036">
+        <ele>646.7</ele>
+      </trkpt>
+      <trkpt lat="42.203002" lon="-7.137040">
+        <ele>645.5</ele>
+      </trkpt>
+      <trkpt lat="42.203319" lon="-7.137077">
+        <ele>645.2</ele>
+      </trkpt>
+      <trkpt lat="42.203926" lon="-7.137038">
+        <ele>646.6</ele>
+      </trkpt>
+      <trkpt lat="42.204504" lon="-7.137063">
+        <ele>643.9</ele>
+      </trkpt>
+      <trkpt lat="42.204886" lon="-7.136922">
+        <ele>646.9</ele>
+      </trkpt>
+      <trkpt lat="42.205293" lon="-7.136885">
+        <ele>646.8</ele>
+      </trkpt>
+      <trkpt lat="42.205543" lon="-7.136912">
+        <ele>645.6</ele>
+      </trkpt>
+      <trkpt lat="42.205920" lon="-7.136768">
+        <ele>648.6</ele>
+      </trkpt>
+      <trkpt lat="42.206241" lon="-7.136684">
+        <ele>649.7</ele>
+      </trkpt>
+      <trkpt lat="42.206428" lon="-7.136478">
+        <ele>652.2</ele>
+      </trkpt>
+      <trkpt lat="42.206535" lon="-7.136191">
+        <ele>656.4</ele>
+      </trkpt>
+      <trkpt lat="42.206625" lon="-7.135960">
+        <ele>661.0</ele>
+      </trkpt>
+      <trkpt lat="42.206755" lon="-7.135907">
+        <ele>660.2</ele>
+      </trkpt>
+      <trkpt lat="42.206944" lon="-7.136021">
+        <ele>654.4</ele>
+      </trkpt>
+      <trkpt lat="42.207232" lon="-7.136046">
+        <ele>650.3</ele>
+      </trkpt>
+      <trkpt lat="42.207467" lon="-7.135978">
+        <ele>649.7</ele>
+      </trkpt>
+      <trkpt lat="42.207725" lon="-7.135786">
+        <ele>651.3</ele>
+      </trkpt>
+      <trkpt lat="42.208019" lon="-7.135618">
+        <ele>652.3</ele>
+      </trkpt>
+      <trkpt lat="42.208340" lon="-7.135359">
+        <ele>655.1</ele>
+      </trkpt>
+      <trkpt lat="42.208685" lon="-7.135165">
+        <ele>656.8</ele>
+      </trkpt>
+      <trkpt lat="42.208852" lon="-7.135121">
+        <ele>656.1</ele>
+      </trkpt>
+      <trkpt lat="42.209227" lon="-7.135013">
+        <ele>654.6</ele>
+        <cmt>v288</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.209622" lon="-7.134801">
+        <ele>654.2</ele>
+      </trkpt>
+      <trkpt lat="42.209913" lon="-7.134814">
+        <ele>652.6</ele>
+      </trkpt>
+      <trkpt lat="42.210260" lon="-7.134488">
+        <ele>656.1</ele>
+      </trkpt>
+      <trkpt lat="42.210485" lon="-7.134277">
+        <ele>661.0</ele>
+      </trkpt>
+      <trkpt lat="42.210646" lon="-7.134172">
+        <ele>663.5</ele>
+      </trkpt>
+      <trkpt lat="42.210804" lon="-7.134044">
+        <ele>666.5</ele>
+      </trkpt>
+      <trkpt lat="42.210952" lon="-7.133892">
+        <ele>670.0</ele>
+      </trkpt>
+      <trkpt lat="42.211108" lon="-7.133795">
+        <ele>671.7</ele>
+      </trkpt>
+      <trkpt lat="42.211220" lon="-7.133796">
+        <ele>671.0</ele>
+      </trkpt>
+      <trkpt lat="42.211374" lon="-7.133847">
+        <ele>670.9</ele>
+      </trkpt>
+      <trkpt lat="42.211580" lon="-7.133871">
+        <ele>672.7</ele>
+      </trkpt>
+      <trkpt lat="42.211720" lon="-7.133827">
+        <ele>675.1</ele>
+      </trkpt>
+      <trkpt lat="42.211860" lon="-7.133618">
+        <ele>680.6</ele>
+      </trkpt>
+      <trkpt lat="42.211904" lon="-7.133448">
+        <ele>684.5</ele>
+        <cmt>v289</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.211798" lon="-7.133203">
+        <ele>688.9</ele>
+      </trkpt>
+      <trkpt lat="42.211631" lon="-7.132984">
+        <ele>692.9</ele>
+      </trkpt>
+      <trkpt lat="42.211498" lon="-7.132752">
+        <ele>697.5</ele>
+      </trkpt>
+      <trkpt lat="42.211374" lon="-7.132208">
+        <ele>710.5</ele>
+      </trkpt>
+      <trkpt lat="42.211376" lon="-7.131952">
+        <ele>716.4</ele>
+      </trkpt>
+      <trkpt lat="42.211425" lon="-7.131584">
+        <ele>723.6</ele>
+      </trkpt>
+      <trkpt lat="42.211435" lon="-7.131299">
+        <ele>729.5</ele>
+      </trkpt>
+      <trkpt lat="42.211390" lon="-7.130990">
+        <ele>734.7</ele>
+      </trkpt>
+      <trkpt lat="42.211352" lon="-7.130729">
+        <ele>738.7</ele>
+      </trkpt>
+      <trkpt lat="42.211191" lon="-7.130470">
+        <ele>745.7</ele>
+      </trkpt>
+      <trkpt lat="42.210971" lon="-7.130516">
+        <ele>750.2</ele>
+      </trkpt>
+      <trkpt lat="42.210833" lon="-7.130649">
+        <ele>751.2</ele>
+      </trkpt>
+      <trkpt lat="42.210694" lon="-7.130712">
+        <ele>753.1</ele>
+      </trkpt>
+      <trkpt lat="42.210455" lon="-7.130652">
+        <ele>759.4</ele>
+      </trkpt>
+      <trkpt lat="42.210140" lon="-7.130609">
+        <ele>766.4</ele>
+      </trkpt>
+      <trkpt lat="42.209946" lon="-7.130645">
+        <ele>769.4</ele>
+      </trkpt>
+      <trkpt lat="42.209814" lon="-7.130501">
+        <ele>774.9</ele>
+      </trkpt>
+      <trkpt lat="42.209704" lon="-7.130519">
+        <ele>776.6</ele>
+      </trkpt>
+      <trkpt lat="42.209438" lon="-7.130487">
+        <ele>781.2</ele>
+      </trkpt>
+      <trkpt lat="42.209163" lon="-7.130655">
+        <ele>780.8</ele>
+      </trkpt>
+      <trkpt lat="42.208981" lon="-7.130761">
+        <ele>780.8</ele>
+      </trkpt>
+      <trkpt lat="42.208759" lon="-7.130889">
+        <ele>780.8</ele>
+      </trkpt>
+      <trkpt lat="42.208384" lon="-7.130777">
+        <ele>787.7</ele>
+      </trkpt>
+      <trkpt lat="42.208105" lon="-7.130627">
+        <ele>793.9</ele>
+      </trkpt>
+      <trkpt lat="42.207717" lon="-7.130539">
+        <ele>799.6</ele>
+      </trkpt>
+      <trkpt lat="42.207311" lon="-7.130545">
+        <ele>803.1</ele>
+      </trkpt>
+      <trkpt lat="42.207037" lon="-7.130634">
+        <ele>804.3</ele>
+      </trkpt>
+      <trkpt lat="42.206782" lon="-7.130790">
+        <ele>804.7</ele>
+      </trkpt>
+      <trkpt lat="42.206694" lon="-7.130944">
+        <ele>804.1</ele>
+      </trkpt>
+      <trkpt lat="42.206537" lon="-7.131134">
+        <ele>804.5</ele>
+      </trkpt>
+      <trkpt lat="42.206316" lon="-7.131100">
+        <ele>807.8</ele>
+      </trkpt>
+      <trkpt lat="42.205978" lon="-7.131210">
+        <ele>812.3</ele>
+      </trkpt>
+      <trkpt lat="42.205692" lon="-7.131294">
+        <ele>815.7</ele>
+      </trkpt>
+      <trkpt lat="42.205362" lon="-7.131171">
+        <ele>821.4</ele>
+      </trkpt>
+      <trkpt lat="42.205095" lon="-7.131127">
+        <ele>824.4</ele>
+      </trkpt>
+      <trkpt lat="42.204762" lon="-7.131275">
+        <ele>828.3</ele>
+      </trkpt>
+      <trkpt lat="42.204531" lon="-7.131436">
+        <ele>827.7</ele>
+      </trkpt>
+      <trkpt lat="42.204288" lon="-7.131589">
+        <ele>826.8</ele>
+      </trkpt>
+      <trkpt lat="42.203907" lon="-7.131638">
+        <ele>829.3</ele>
+      </trkpt>
+      <trkpt lat="42.203572" lon="-7.131765">
+        <ele>827.9</ele>
+      </trkpt>
+      <trkpt lat="42.203279" lon="-7.131842">
+        <ele>826.5</ele>
+      </trkpt>
+      <trkpt lat="42.202706" lon="-7.131873">
+        <ele>824.0</ele>
+      </trkpt>
+      <trkpt lat="42.202208" lon="-7.131467">
+        <ele>828.9</ele>
+      </trkpt>
+      <trkpt lat="42.201572" lon="-7.130978">
+        <ele>833.9</ele>
+      </trkpt>
+      <trkpt lat="42.200905" lon="-7.130804">
+        <ele>835.1</ele>
+      </trkpt>
+      <trkpt lat="42.200359" lon="-7.130361">
+        <ele>843.6</ele>
+      </trkpt>
+      <trkpt lat="42.200014" lon="-7.130126">
+        <ele>846.9</ele>
+      </trkpt>
+      <trkpt lat="42.199561" lon="-7.130032">
+        <ele>848.2</ele>
+      </trkpt>
+      <trkpt lat="42.198907" lon="-7.129595">
+        <ele>859.7</ele>
+      </trkpt>
+      <trkpt lat="42.198468" lon="-7.129342">
+        <ele>863.5</ele>
+      </trkpt>
+      <trkpt lat="42.197946" lon="-7.128927">
+        <ele>872.1</ele>
+      </trkpt>
+      <trkpt lat="42.197501" lon="-7.128663">
+        <ele>880.1</ele>
+      </trkpt>
+      <trkpt lat="42.197070" lon="-7.128474">
+        <ele>885.7</ele>
+      </trkpt>
+      <trkpt lat="42.196696" lon="-7.128305">
+        <ele>892.2</ele>
+      </trkpt>
+      <trkpt lat="42.196434" lon="-7.128397">
+        <ele>891.9</ele>
+      </trkpt>
+      <trkpt lat="42.196278" lon="-7.128564">
+        <ele>889.6</ele>
+        <cmt>v290</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.195762" lon="-7.128626">
+        <ele>890.0</ele>
+      </trkpt>
+      <trkpt lat="42.195062" lon="-7.128760">
+        <ele>890.5</ele>
+      </trkpt>
+      <trkpt lat="42.194375" lon="-7.128891">
+        <ele>889.6</ele>
+      </trkpt>
+      <trkpt lat="42.193962" lon="-7.129003">
+        <ele>887.1</ele>
+      </trkpt>
+      <trkpt lat="42.193754" lon="-7.129105">
+        <ele>886.3</ele>
+      </trkpt>
+      <trkpt lat="42.193501" lon="-7.128982">
+        <ele>887.8</ele>
+        <cmt>v291</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.193312" lon="-7.128909">
+        <ele>888.6</ele>
+      </trkpt>
+      <trkpt lat="42.193031" lon="-7.129012">
+        <ele>889.8</ele>
+      </trkpt>
+      <trkpt lat="42.192805" lon="-7.129091">
+        <ele>891.1</ele>
+      </trkpt>
+      <trkpt lat="42.192588" lon="-7.129083">
+        <ele>892.1</ele>
+      </trkpt>
+      <trkpt lat="42.192279" lon="-7.128941">
+        <ele>892.6</ele>
+      </trkpt>
+      <trkpt lat="42.192033" lon="-7.128799">
+        <ele>892.5</ele>
+      </trkpt>
+      <trkpt lat="42.191730" lon="-7.128594">
+        <ele>890.7</ele>
+      </trkpt>
+      <trkpt lat="42.191465" lon="-7.128411">
+        <ele>888.5</ele>
+      </trkpt>
+      <trkpt lat="42.191073" lon="-7.128111">
+        <ele>884.5</ele>
+        <cmt>v292</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.190897" lon="-7.128094">
+        <ele>884.8</ele>
+      </trkpt>
+      <trkpt lat="42.190692" lon="-7.128219">
+        <ele>887.0</ele>
+      </trkpt>
+      <trkpt lat="42.190343" lon="-7.128351">
+        <ele>889.7</ele>
+        <cmt>v293</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.190216" lon="-7.128466">
+        <ele>891.7</ele>
+      </trkpt>
+      <trkpt lat="42.189868" lon="-7.128603">
+        <ele>895.1</ele>
+      </trkpt>
+      <trkpt lat="42.189666" lon="-7.128699">
+        <ele>897.1</ele>
+      </trkpt>
+      <trkpt lat="42.189541" lon="-7.128730">
+        <ele>898.0</ele>
+      </trkpt>
+      <trkpt lat="42.189295" lon="-7.128561">
+        <ele>897.5</ele>
+      </trkpt>
+      <trkpt lat="42.188955" lon="-7.128356">
+        <ele>897.9</ele>
+      </trkpt>
+      <trkpt lat="42.188600" lon="-7.128306">
+        <ele>899.1</ele>
+        <cmt>v294</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.188628" lon="-7.128108">
+        <ele>898.1</ele>
+      </trkpt>
+      <trkpt lat="42.188625" lon="-7.128014">
+        <ele>897.6</ele>
+        <cmt>v295</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.188442" lon="-7.127878">
+        <ele>896.8</ele>
+      </trkpt>
+      <trkpt lat="42.188289" lon="-7.127818">
+        <ele>896.1</ele>
+      </trkpt>
+      <trkpt lat="42.188020" lon="-7.127776">
+        <ele>896.0</ele>
+      </trkpt>
+      <trkpt lat="42.187728" lon="-7.127688">
+        <ele>893.5</ele>
+      </trkpt>
+      <trkpt lat="42.187450" lon="-7.127630">
+        <ele>890.5</ele>
+      </trkpt>
+      <trkpt lat="42.187270" lon="-7.127503">
+        <ele>887.5</ele>
+      </trkpt>
+      <trkpt lat="42.187040" lon="-7.127313">
+        <ele>882.8</ele>
+      </trkpt>
+      <trkpt lat="42.186910" lon="-7.127097">
+        <ele>877.2</ele>
+      </trkpt>
+      <trkpt lat="42.186690" lon="-7.126878">
+        <ele>870.0</ele>
+      </trkpt>
+      <trkpt lat="42.186555" lon="-7.126808">
+        <ele>866.5</ele>
+        <cmt>v296</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.186317" lon="-7.126986">
+        <ele>862.8</ele>
+      </trkpt>
+      <trkpt lat="42.186054" lon="-7.127337">
+        <ele>862.6</ele>
+      </trkpt>
+      <trkpt lat="42.185839" lon="-7.127632">
+        <ele>864.3</ele>
+      </trkpt>
+      <trkpt lat="42.185608" lon="-7.127747">
+        <ele>863.1</ele>
+      </trkpt>
+      <trkpt lat="42.185316" lon="-7.127765">
+        <ele>858.6</ele>
+      </trkpt>
+      <trkpt lat="42.185163" lon="-7.127757">
+        <ele>855.2</ele>
+        <cmt>v297</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_strait.png</sym>
+      </trkpt>
+      <trkpt lat="42.185078" lon="-7.127696">
+        <ele>852.4</ele>
+      </trkpt>
+      <trkpt lat="42.184847" lon="-7.127628">
+        <ele>846.7</ele>
+      </trkpt>
+      <trkpt lat="42.184612" lon="-7.127618">
+        <ele>842.0</ele>
+      </trkpt>
+      <trkpt lat="42.184372" lon="-7.127722">
+        <ele>837.5</ele>
+      </trkpt>
+      <trkpt lat="42.184090" lon="-7.127926">
+        <ele>832.6</ele>
+      </trkpt>
+      <trkpt lat="42.183709" lon="-7.128214">
+        <ele>825.0</ele>
+      </trkpt>
+      <trkpt lat="42.183370" lon="-7.128576">
+        <ele>822.8</ele>
+      </trkpt>
+      <trkpt lat="42.183129" lon="-7.128873">
+        <ele>821.1</ele>
+      </trkpt>
+      <trkpt lat="42.183002" lon="-7.129267">
+        <ele>821.9</ele>
+      </trkpt>
+      <trkpt lat="42.182908" lon="-7.129349">
+        <ele>821.4</ele>
+      </trkpt>
+      <trkpt lat="42.182689" lon="-7.129537">
+        <ele>818.1</ele>
+        <cmt>v298</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.182397" lon="-7.129217">
+        <ele>811.0</ele>
+      </trkpt>
+      <trkpt lat="42.182286" lon="-7.128875">
+        <ele>807.8</ele>
+      </trkpt>
+      <trkpt lat="42.182219" lon="-7.128336">
+        <ele>807.8</ele>
+      </trkpt>
+      <trkpt lat="42.181899" lon="-7.127920">
+        <ele>804.9</ele>
+      </trkpt>
+      <trkpt lat="42.181522" lon="-7.127563">
+        <ele>805.4</ele>
+      </trkpt>
+      <trkpt lat="42.180633" lon="-7.127025">
+        <ele>804.7</ele>
+      </trkpt>
+      <trkpt lat="42.180095" lon="-7.126881">
+        <ele>798.0</ele>
+      </trkpt>
+      <trkpt lat="42.179516" lon="-7.126579">
+        <ele>795.0</ele>
+      </trkpt>
+      <trkpt lat="42.179117" lon="-7.126543">
+        <ele>790.7</ele>
+      </trkpt>
+      <trkpt lat="42.178710" lon="-7.126678">
+        <ele>781.7</ele>
+      </trkpt>
+      <trkpt lat="42.178402" lon="-7.126700">
+        <ele>773.4</ele>
+      </trkpt>
+      <trkpt lat="42.178174" lon="-7.126508">
+        <ele>772.3</ele>
+      </trkpt>
+      <trkpt lat="42.177859" lon="-7.125996">
+        <ele>774.4</ele>
+      </trkpt>
+      <trkpt lat="42.177519" lon="-7.125484">
+        <ele>777.2</ele>
+      </trkpt>
+      <trkpt lat="42.177050" lon="-7.125062">
+        <ele>772.2</ele>
+      </trkpt>
+      <trkpt lat="42.176627" lon="-7.124618">
+        <ele>763.5</ele>
+      </trkpt>
+      <trkpt lat="42.176314" lon="-7.124293">
+        <ele>757.6</ele>
+      </trkpt>
+      <trkpt lat="42.175917" lon="-7.124304">
+        <ele>747.5</ele>
+      </trkpt>
+      <trkpt lat="42.175607" lon="-7.124384">
+        <ele>737.9</ele>
+      </trkpt>
+      <trkpt lat="42.175218" lon="-7.124185">
+        <ele>729.2</ele>
+      </trkpt>
+      <trkpt lat="42.174937" lon="-7.123990">
+        <ele>723.7</ele>
+      </trkpt>
+      <trkpt lat="42.174790" lon="-7.123467">
+        <ele>725.0</ele>
+      </trkpt>
+      <trkpt lat="42.174585" lon="-7.123559">
+        <ele>718.4</ele>
+      </trkpt>
+      <trkpt lat="42.174391" lon="-7.123990">
+        <ele>705.9</ele>
+      </trkpt>
+      <trkpt lat="42.174518" lon="-7.124403">
+        <ele>702.1</ele>
+      </trkpt>
+      <trkpt lat="42.174831" lon="-7.124965">
+        <ele>700.5</ele>
+        <cmt>v300</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_u_turn_left.png</sym>
+      </trkpt>
+      <trkpt lat="42.174464" lon="-7.124648">
+        <ele>694.9</ele>
+      </trkpt>
+      <trkpt lat="42.173875" lon="-7.123884">
+        <ele>690.9</ele>
+      </trkpt>
+      <trkpt lat="42.173765" lon="-7.123291">
+        <ele>694.9</ele>
+      </trkpt>
+      <trkpt lat="42.173630" lon="-7.122573">
+        <ele>695.2</ele>
+      </trkpt>
+      <trkpt lat="42.173658" lon="-7.122176">
+        <ele>697.1</ele>
+      </trkpt>
+      <trkpt lat="42.173929" lon="-7.121795">
+        <ele>697.2</ele>
+      </trkpt>
+      <trkpt lat="42.174296" lon="-7.121451">
+        <ele>697.7</ele>
+      </trkpt>
+      <trkpt lat="42.174946" lon="-7.121241">
+        <ele>703.2</ele>
+      </trkpt>
+      <trkpt lat="42.175421" lon="-7.121163">
+        <ele>705.6</ele>
+      </trkpt>
+      <trkpt lat="42.176051" lon="-7.121623">
+        <ele>713.0</ele>
+      </trkpt>
+      <trkpt lat="42.176546" lon="-7.122084">
+        <ele>717.8</ele>
+      </trkpt>
+      <trkpt lat="42.177026" lon="-7.122143">
+        <ele>705.4</ele>
+      </trkpt>
+      <trkpt lat="42.177408" lon="-7.122436">
+        <ele>711.7</ele>
+      </trkpt>
+      <trkpt lat="42.178088" lon="-7.122523">
+        <ele>707.1</ele>
+      </trkpt>
+      <trkpt lat="42.178831" lon="-7.122356">
+        <ele>693.1</ele>
+      </trkpt>
+      <trkpt lat="42.179331" lon="-7.122147">
+        <ele>683.1</ele>
+      </trkpt>
+      <trkpt lat="42.179533" lon="-7.122025">
+        <ele>677.7</ele>
+        <cmt>v301</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.179482" lon="-7.121433">
+        <ele>656.7</ele>
+      </trkpt>
+      <trkpt lat="42.179264" lon="-7.120224">
+        <ele>647.6</ele>
+      </trkpt>
+      <trkpt lat="42.178912" lon="-7.119875">
+        <ele>648.0</ele>
+      </trkpt>
+      <trkpt lat="42.178484" lon="-7.119624">
+        <ele>646.9</ele>
+      </trkpt>
+      <trkpt lat="42.178303" lon="-7.119142">
+        <ele>649.5</ele>
+      </trkpt>
+      <trkpt lat="42.178456" lon="-7.118216">
+        <ele>655.8</ele>
+      </trkpt>
+      <trkpt lat="42.178773" lon="-7.117824">
+        <ele>661.3</ele>
+      </trkpt>
+      <trkpt lat="42.178832" lon="-7.117431">
+        <ele>661.3</ele>
+      </trkpt>
+      <trkpt lat="42.178856" lon="-7.116630">
+        <ele>659.2</ele>
+      </trkpt>
+      <trkpt lat="42.178859" lon="-7.115488">
+        <ele>658.3</ele>
+      </trkpt>
+      <trkpt lat="42.178855" lon="-7.115084">
+        <ele>658.8</ele>
+      </trkpt>
+      <trkpt lat="42.178956" lon="-7.114729">
+        <ele>663.2</ele>
+      </trkpt>
+      <trkpt lat="42.179052" lon="-7.114515">
+        <ele>667.2</ele>
+      </trkpt>
+      <trkpt lat="42.178992" lon="-7.114231">
+        <ele>666.7</ele>
+      </trkpt>
+      <trkpt lat="42.178682" lon="-7.113905">
+        <ele>661.9</ele>
+      </trkpt>
+      <trkpt lat="42.178176" lon="-7.113474">
+        <ele>665.4</ele>
+      </trkpt>
+      <trkpt lat="42.177666" lon="-7.113002">
+        <ele>671.6</ele>
+      </trkpt>
+      <trkpt lat="42.177277" lon="-7.112320">
+        <ele>680.0</ele>
+        <cmt>v302 compar</cmt>
+        <sym>C:\Program Files (x86)\CompeGPS\symbols\compegps.zip\nav_turn_right.png</sym>
+      </trkpt>
+      <trkpt lat="42.176807" lon="-7.112482">
+        <ele>674.6</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
